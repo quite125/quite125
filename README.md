@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&&section=header&text=Hi%20There！&fontSize=90&fontAlign=55&fontAlignY=28&desc=I%20'm%20quite125&descAlign=50&descSize=30&descAlignY=56" />
+</p>    
+     
+  <div>
+    <a href="https://github.com/Ericsciencer">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Welcome+to+my+GitHub!;I%20can%20communicate%20with%20you%20in%20four%20languages%3A%20Chinese%2C%20English%2C%20Russian%20and%20German!" />    
+    </a>
+  </div>
+   
+   <!-- cute cat pictures 图片-->
 
-<!--
-**quite125/quite125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <!-- profile logo 个人资料徽标 -->
+  <div> 
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=RicardoBYang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
-Here are some ideas to get you started:
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</div>
+
+
+## 🧠 About Me | 关于我
+
+      🔭 **研究领域**
+      - 深度学习  
+      - 多模态内容生成
+      - 邮箱：2901141506@qq.com
+
+## 🛠 Skills | 技能
+- **编程语言**：Python    
+- **算法**：机器学习、深度学习    
+- **计算机视觉**：OpenCV Pytorch TensFlow    
+- **硬件**： 树莓派 OrangePi
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ericsciencer/Ericsciencer/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+## ⚡ Tech Stack | 技术栈
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+
+---
+
+## 📊 GitHub Analytics
+  <!-- 统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=quite125&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" height="165"/>
+  
+  <!-- 语言统计 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quite125&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Top Langs" height="165"/>
+</div>
